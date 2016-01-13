@@ -1,0 +1,207 @@
+- display: Squats
+  short: squats
+  exercises:
+  - display: Assisted squat
+    short: assisted
+  - display: Deep assisted squat
+    short: deep-assisted
+  - display: Squats
+    short: squats
+  - display: Deep Squats
+    short: deep-squats
+  - display: Bulgarian split squats
+    short: bulgarian
+  - display: Beginner shrimps
+    short: beginner-shrimps
+  - display: Assisted one legged squats
+    short: assisted-one-leg
+  - display: Balance assisted one legged squats
+    short: balance-assisted-one-leg
+  - display: Weighted one legged squats
+    short: weighted-one-leg
+  - display: One legged squats
+    short: one-leg
+  - display: Renegade pistols
+    short: renegade
+  - display: Intermediate shrimps
+    short: intermediate-shrimps
+  - display: Advanced shrimps
+    short: advanced-shrimps
+- display: Pull Ups
+  short: pullups
+  exercises:
+  - display: Leg assisted pull ups
+    short: leg-assisted
+  - display: Jackknife pull ups
+    short: jackknife
+  - display: Eccentric pull ups
+    short: eccentric
+  - display: Half pull ups (top half)
+    short: half
+  - display: Pull ups
+    short: pullups
+  - display: Close grip pull ups
+    short: close-grip
+  - display: Wide grip pull ups
+    short: wide-grip
+  - display: Archer pull ups
+    short: archer
+  - display: Sternum pull ups
+    short: Sternum
+  - display: Belly button pull ups
+    short: belly-button
+  - display: One arm towel-assisted pull ups
+    short: towel-assisted
+  - display: One arm towel-assisted pull ups and eccentrics
+    short: towel-assisted-eccentrics
+  - display: Half one arm pull ups
+    short: half-one-arm
+  - display: One arm pull ups
+    short: one-arm
+- display: Handstand push ups
+  short: handstand
+  exercises:
+  - display: Incline pike push ups
+    short: incline-pike
+  - display: Incline pike diamond push ups
+    short: inline-pike-diamond
+  - display: Pike push ups
+    short: pike
+  - display: Pike diamond push ups
+    short: pike-diamond
+  - display: Declime pike push ups
+    short: decline-pike
+  - display: Decline pike diamond push ups
+    short: decline-pike-diamond
+  - display: Wall bent waist handstand push ups
+    short: wall-bent-waist
+  - display: Wall bent waist handstand diamond push ups
+    short: wall-bent-waist-diamond
+  - display: Wall half handstand push ups
+    short: wall-half
+  - display: Wall handstand push ups
+    short: wall
+  - display: Wall handstand diamond pushups
+    short: wall-diamond
+  - display: Wall handstand raised push ups
+    short: wall-raised
+- display: Leg Raises
+  short: leg-raises
+  exercises:
+  - display: Flat knee raises
+    short: flat-knee
+  - display: Flat bent leg raises
+    short: flat-bent
+  - display: Flat straight leg raises
+    short: flat-straight
+  - display: Forearm knee raises
+    short: forearm-knee
+  - display: Hanging knee raises
+    short: hanging-knee
+  - display: Forearm bent leg raises
+    short: forearm-bent-leg
+  - display: Hanging bent leg raises
+    short: hanging-bent
+  - display: Forearm straight leg raises
+    short: forearm-straight
+  - display: Hanging straight leg raises
+    short: hanging-straight
+  - display: Hanging bent leg V-raises
+    short: hanging-bent-v
+  - display: Hanging straight leg V-raises
+    short: hanging-straight-v
+  - display: Hanging fan raises
+    short: hanging-fan
+  - display: Hanging V-raise windshield wipers
+    short: windshield
+  - display: One arm hanging leg raises
+    short: one-arm-hanging
+- - display: Push ups
+    short: pushups
+    exercises:
+    - display: Wall push ups
+      short: wall
+    - display: Box push ups
+      short: box
+    - display: Three quarter push ups
+      short: three-quarter
+    - display: Three quarter push ups + 5s eccentrics
+      short: three-quarter-eccentrics
+    - display: Push ups
+      short: pushups
+    - display: Elbows in push ups
+      short: elbows-in
+    - display: Diamond push ups
+      short: diamond
+    - display: Uneven push ups
+      short: uneven
+    - display: Decline push ups
+      short: decline
+    - display: Decline elbows in push ups
+      short: decline-elbows-in
+    - display: Decline diamond push ups
+      short: decline-diamond
+    - display: Wall one arm push ups
+      short: wall-one-arm
+    - display: Incline one arm push ups
+      short: incline-one-arm
+    - display: One arm push ups
+      short: one-arm
+    - display: Decline one arm push ups
+      short: decline-one-arm
+  - display: Dips
+    short: dips
+    exercises:
+    - display: Bent knee bench dips
+      short: bent-knee-bench
+    - display: Straight legs bench dips
+      short: straight-bench
+    - display: One elevated leg, straight legs dips
+      short: one-elevated-straight
+    - display: Elevated legs bench dips
+      short: elevated-bench
+    - display: One extended leg, elevated legs dips
+      short: one-extended-elevated
+    - display: Legs supported dips
+      short: legs-supported
+    - display: One leg supported
+      short: one-leg-supported
+    - display: Jumping and 5s eccentric dips
+      short: jumping-eccentric
+    - display: Half dips (top half)
+      short: half-dips
+    - display: Dips
+      short: dips
+    - display: Leg forward dips
+      short: leg-forward
+    - display: Modified Russian dips
+      short: modified-russian
+    - display: Russian dips
+      short: Russian dips
+- display: Horizontal pulls
+  short: horizontal-pulls
+  exercises:
+  - display: Vertical pulls
+    short: vertical
+  - display: Vertical pulls with a towel
+    short: vertical-towel
+  - display: Inverted rows, legs bent
+    short: inverted-bent
+  - display: Inverted rows, straight legs
+    short: inverted-straight
+  - display: Inverted rows, one leg extended
+    short: inverted-one-leg-extended
+  - display: Inverted rows, leg elevated
+    short: inverted-elevated
+  - display: Legs elevated, one leg extended
+    short: elevated-one-leg-extended
+  - display: Tuck knees, front lever rows
+    short: tuck-knees-front-level-rows
+  - display: Advanced tuck knees rows
+    short: advanced-tuck-knees-rows
+  - display: One tuck knee, one leg extended rows
+    short: one-tuck-knee-one-leg-extended
+  - display: Straddle legs front lever rows
+    short: straddle-front-lever
+  - display: Front lever rows
+    short: front-lever

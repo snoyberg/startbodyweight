@@ -1,0 +1,11 @@
+$forall progressionChoice <- progressions
+    $case progressionChoice
+        $of PCAlways p
+            <section .always>
+                <h1>#{progressionDisplay p}
+                <ul .exercises>
+                    $forall e <- progressionExercises p
+                        <li>#{exerciseDisplay e}
+        $of PCRotate ps
+<p>
+    <a href=@{HomeR}>Return to home
