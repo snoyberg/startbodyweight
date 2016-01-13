@@ -1,0 +1,10 @@
+<h1.jumbotron>
+  Start Bodyweight Assistant
+
+<ul>
+  <li>
+    <a href=http://startbodyweight.com>Start Bodyweight homepage
+  <li>
+    <a href=@{ProgressionsR}>See the progressions
+  <li>
+    <a href=@{AppR}>Run the app
