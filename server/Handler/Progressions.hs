@@ -1,6 +1,7 @@
 module Handler.Progressions where
 
 import Import
+import Data.NonNull
 
 getProgressionsR :: Handler Html
 getProgressionsR = do

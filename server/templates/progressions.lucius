@@ -1,0 +1,5 @@
+.rotate {
+    margin-left: 1em;
+    border-left: 3px solid black;
+    padding-left: 1em;
+}

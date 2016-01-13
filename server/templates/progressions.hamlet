@@ -7,5 +7,12 @@ $forall progressionChoice <- progressions
                     $forall e <- progressionExercises p
                         <li>#{exerciseDisplay e}
         $of PCRotate ps
+            <section .rotate>
+                <h1>Rotate among the following
+                $forall p <- toNullable ps
+                    <h2>#{progressionDisplay p}
+                    <ul .exercises>
+                        $forall e <- progressionExercises p
+                            <li>#{exerciseDisplay e}
 <p>
     <a href=@{HomeR}>Return to home
